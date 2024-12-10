@@ -8,6 +8,6 @@ PayWell is a comprehensive solution designed to help users reduce or eliminate m
 Canva/Mock up link(in case zip file does not work): https://www.canva.com/design/DAGYqI9YPxk/J6MYffCnSFFXKS7RL-6rCw/edit?utm_content=DAGYqI9YPxk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <br>
 <br>
-Youtube link: https://youtu.be/5b_Hs2RH9c4?si=CAj2yN3axPqW7N9F
+Youtube link: https://youtu.be/ZXQX51BbUUE?si=Lijt-1fbCODZ3_Ii
 <br>
 Due to time contrainsts, we unfortunatly were not able to explain our sample code in the video. However, the notes in the file should be able to explain well.
