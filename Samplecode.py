@@ -74,3 +74,6 @@ else:
 print("\nYou are not eligible for any of the programs at this time.")
 
 interactive_input()
+
+
+# We would use this sort of code to figure out/define different charities requirnments for people to have
